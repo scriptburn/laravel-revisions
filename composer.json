@@ -21,7 +21,10 @@
         }
     ],
     "require": {
-       
+        "php": "*",
+        "illuminate/contracts": "*",
+        "illuminate/support": "*",
+        "illuminate/database": "*"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0",

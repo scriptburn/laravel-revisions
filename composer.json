@@ -27,7 +27,7 @@
         "illuminate/database": "*"
     },
     "require-dev": {
-        "orchestra/testbench": "^5.0",
+        "orchestra/testbench": "^8.27",
         "phpunit/phpunit": "^9"
     },
     "autoload": {
